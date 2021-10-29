@@ -326,6 +326,7 @@ section{
     color: snow;
     text-transform: none;
     padding: 5px;
+    border-radius: 14px;
 
 }
 .taille:hover{
